@@ -1,4 +1,4 @@
-@Library('jenkins-shared-library') _
+@Library('sharedlibrary') _
 
 myPipeline(
     appName: 'sample-app',
