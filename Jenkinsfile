@@ -3,5 +3,5 @@
 myPipeline(
     appName: 'sample-app',
     sonarProjectKey: 'sample-app',
-    port: '3000'
+    port: '3001'
 )
